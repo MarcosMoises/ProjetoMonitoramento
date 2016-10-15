@@ -10,8 +10,10 @@
 
 }
 
-#body {
-  background-image: url("imgs/techBackground.jpg");
-  max-width: 100px;
-  max-height: 100px
+#buttonInfo{
+  float : right;
+}
+
+#footerText{
+  color: white;
 }
